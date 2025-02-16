@@ -1,10 +1,10 @@
 names = ["Victoria", "Ruby", "Elea", "Adam", "Lucie"]
-for each in names:
-    print(each)
+for name in names:
+    print(name)
 
-for each in names:
-    print(f"Hello {each} how are you?")
+for name in names:
+    print(f"Hello {name} how are you?")
 
-vehiculs = ["Tesla", "Mustang", "FatBoy"]
-for each in vehiculs:
-    print(f"I would love to have a {each}")
+vehicles = ["Tesla", "Mustang", "FatBoy"]
+for vehicle in vehicles:
+    print(f"I would love to have a {vehicle}")
